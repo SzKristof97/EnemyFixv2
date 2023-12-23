@@ -65,8 +65,5 @@
     <Compile Include="Utilities\Logger.cs" />
     <Compile Include="Utilities\PluginInfos.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="README.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
